@@ -49,7 +49,7 @@ export function Component() {
         {
           // src: videoData?.video,
           // src: "https://d2zihajmogu5jn.cloudfront.net/bipbop-advanced/bipbop_16x9_variant.m3u8",
-          src: "https://d1f5nv1xyjonb0.cloudfront.net/bbb_sunflower_1080p_30fps_normal.mp4",
+          src: "s3://myflix2/bbb_sunflower_1080p_30fps_normal.mp4",
           type: "application/x-mpegurl",
         },
       ],
